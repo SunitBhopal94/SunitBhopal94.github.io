@@ -12,8 +12,8 @@ IT Consultant with over 2 years of experience, excelling in leveraging Microsoft
 
 ## Infosys Ltd | IT Consultant
 Apr 2021 - June 2023<br>
--Lead IT projects enhancing system efficiency, ensuring high client satisfaction.
--Synchronize with diverse teams to capture requirements, blueprint solutions, and roll out software systems that satisfy client specifications.
+* Lead IT projects enhancing system efficiency, ensuring high client satisfaction.
+* Synchronize with diverse teams to capture requirements, blueprint solutions, and roll out software systems that satisfy client specifications.
 -Orchestrate communication with various stakeholders, including site supervisors and customer partners, to resolve issues and service requests/incidents through     email, ticketing system (Service Now), Microsoft Teams.
 -Conduct comprehensive root cause analysis utilizing event logs and crash dumps, leading to improved system stability and performance.
 -Facilitate end-user training and support, ensuring seamless adoption of new systems and processes, enhancing productivity and user satisfaction.
