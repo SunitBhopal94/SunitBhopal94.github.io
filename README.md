@@ -1,9 +1,3 @@
-Sunit Bhopal
-IT Consultant
-16520 Badalona Street, Lake Elsinore, United States, 92530	9514638848
-sunitbhopal@gmail.com
-
-
 # Professional summary
 IT Consultant with over 2 years of experience, excelling in leveraging Microsoft Office, SQL, and PLSQL to deliver impactful IT solutions and data analysis. Proven track record in enhancing system efficiency, user satisfaction, and facilitating seamless adoption of new systems through meticulous problem-solving and effective team collaboration. Aims to apply a detail-focused approach and deep expertise in Oracle Database and innovative IT consulting strategies to drive business success and system optimization.
 
@@ -11,7 +5,7 @@ IT Consultant with over 2 years of experience, excelling in leveraging Microsoft
 # Employment history
 
 ## Infosys Ltd | IT Consultant
-Apr 2021 - June 2023<br>
+### Apr 2021 - June 2023 <br>
 * Lead IT projects enhancing system efficiency, ensuring high client satisfaction.
 * Synchronize with diverse teams to capture requirements, blueprint solutions, and roll out software systems that satisfy client specifications.
 * Orchestrate communication with various stakeholders, including site supervisors and customer partners, to resolve issues and service requests/incidents through     email, ticketing system (Service Now), Microsoft Teams.
@@ -26,8 +20,8 @@ Apr 2021 - June 2023<br>
 * Providing financial reports to stakeholders and end users using Microsoft excel.
 
 ## Harrington Hoists | Warehouse Lead
-Jul 2017 - Apr 2021<br>
-As a Warehouse Lead at Harrington Hoists, I was responsible for overseeing warehouse operations and ensuring efficient and accurate inventory management.<br>My key responsibilities included:<br>
+### Jul 2017 - Apr 2021<br>
+As a Warehouse Lead at Harrington Hoists, I was responsible for overseeing warehouse operations and ensuring efficient and accurate inventory management.My key responsibilities included:<br>
 * Managed a team of warehouse staff, providing training and guidance to ensure smooth operations.
 * Inspected products for defects/damages and examined ingoing and outgoing shipments.
 * Assembled and filled orders to be shipped to customers and prepared all shipping documentation.
@@ -37,7 +31,7 @@ As a Warehouse Lead at Harrington Hoists, I was responsible for overseeing wareh
 * Assembled orders and packed items for shipment in an accurate and timely manner.
 
 ## Coco web Inc | Marketing /Web Development Intern
-Aug 2016 - Nov 2016
+### Aug 2016 - Nov 2016<br>
 As a Marketing/Web development intern at Coco web Inc, I performed the following duties:<br>
 * Provided administrative support to senior staff including creating proposals and organizing documentation.
 * Responded to email and social media messages according to prescribed policies.
@@ -49,7 +43,7 @@ As a Marketing/Web development intern at Coco web Inc, I performed the following
 # Education
 
 ## California State Polytechnic University, (Cal poly) Pomona | Computer Science
-Jul 2018 - Dec 2020<br>
+### Jul 2018 - Dec 2020<br>
 M.D.: Computer Science <br>Thesis: Edge Computing for the master's program.
 
 
