@@ -4,7 +4,7 @@ IT Consultant
 sunitbhopal@gmail.com
 
 
-## Professional summary
+# Professional summary
 IT Consultant with over 2 years of experience, excelling in leveraging Microsoft Office, SQL, and PLSQL to deliver impactful IT solutions and data analysis. Proven track record in enhancing system efficiency, user satisfaction, and facilitating seamless adoption of new systems through meticulous problem-solving and effective team collaboration. Aims to apply a detail-focused approach and deep expertise in Oracle Database and innovative IT consulting strategies to drive business success and system optimization.
 
 
