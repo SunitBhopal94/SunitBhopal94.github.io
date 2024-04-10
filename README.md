@@ -65,7 +65,7 @@ Punjabi
 
 # Courses
 Coursera | Google Data Analytics<br>
-May 2023 - Mar 2024
+May 2023 - Apr 2024
 
 LinkedIn Learning | Windows troubleshooting<br>
 Jan 2024 - Jan 2024
